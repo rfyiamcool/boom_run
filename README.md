@@ -1,5 +1,8 @@
 # boom_run
 
+## feature:
+方便在crontab里执行命令, 出问题可报警，附带分布式锁
+
 ## To Do List:
 1. 间隔性的网络锁
 2. 加入本地锁
