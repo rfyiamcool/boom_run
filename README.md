@@ -7,6 +7,7 @@
 1. 间隔性的网络锁
 2. 加入本地锁
 3. 加入shell exit code判断
+4. syslog输出
 
 ## usage:
 
